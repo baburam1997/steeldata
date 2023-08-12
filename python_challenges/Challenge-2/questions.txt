@@ -1,0 +1,14 @@
+Beginner
+	1. Write a function that takes a string as input and returns the length of the string.
+	2. Write a function that takes a list of integers as input and returns the maximum value in the list.
+	3. Write a function that takes a float as input and rounds it to the nearest integer.
+	
+Intermediate
+	1. Write a function that takes a list of integers and returns a new list with only the unique values (no duplicates).
+	2. Write a function that takes a string as input and returns the number of vowels in the string.
+	3. Write a function that takes a list of integers and returns a new list with the elements in reverse order.
+	
+Advanced
+	1. Write a function that takes a list of strings and returns a new list with only the strings that are palindromes (i.e. they read the same 	forwards and backwards).
+	2. Write a function that takes a string as input and returns a list of all possible substrings of the string.
+	3. Write a function that takes two matrices (lists of lists) as input and returns the product of the matrices (if possible).

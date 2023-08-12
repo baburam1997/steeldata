@@ -1,0 +1,24 @@
+Beginner
+	1. Write a function that takes a list of integers as input and returns the average of the numbers in the list.
+	2. Write a function that takes a string as input and returns the string with all vowels removed.
+	3. Write a function that takes a list of strings as input and returns a new list with the strings sorted alphabetically.
+
+Intermediate
+	1. Write a function that takes a list of tuples as input, where each tuple contains a string and an integer, and returns a new list of tuples sorted by the integer values.
+	2. Write a function that takes a list of strings as input and returns a new list with only the strings that contain at least one uppercase letter.
+	3. Write a function that takes a list of integers as input and returns the sum of the digits of all the numbers in the list.
+
+Advanced
+	1. Write a function that takes a list of dictionaries as input, 
+		where each dictionary represents a person with keys for name, age, and address, and returns a new list of dictionaries sorted by age.
+	2. Write a program that takes a list of strings as input and performs the following steps:
+		- Remove any strings that contain non-alphabetic characters.
+		- Convert all remaining strings to lowercase.
+		- Sort the strings alphabetically.
+		- Return the sorted list of strings.
+	3. Write a program that takes a list of integers as input and performs the following steps:
+		- Remove any integers that are not prime numbers.
+		- Sort the remaining prime numbers in ascending order.
+		- For each prime number, calculate the sum of the digits in the number.
+		- Return a list of tuples, where each tuple contains the prime number and its corresponding sum of digits.
+		

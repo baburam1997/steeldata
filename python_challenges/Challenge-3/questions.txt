@@ -1,0 +1,15 @@
+Beginner
+	1. Write a function that takes a string as input and returns the number of words in the string.
+	2. Write a function that takes a list of integers as input and returns the sum of the even numbers in the list.
+	3. Write a function that takes two strings as input and returns True if they are anagrams (i.e. they contain the same letters in a different order), False otherwise.
+
+Intermediate
+	1. Write a function that takes a list of strings as input and returns a new list with only the strings that start with a vowel.
+	2. Write a function that takes a list of integers as input and returns a new list with the elements sorted in descending order.
+	3. Write a function that takes a string as input and returns True if it is a palindrome, False otherwise.
+
+Advanced
+	1. Write a function that takes a list of strings as input and returns a new list with only the strings that are anagrams of at least one other string in the list.
+	2. Write a function that takes a list of dictionaries as input and returns a new list with only the dictionaries that contain a certain key-value pair.
+	3. Write a function that takes a list of integers as input and returns a new list with only the numbers that can be expressed as the product of two distinct prime numbers.
+	4. Create a text-based adventure game that uses ASCII art
